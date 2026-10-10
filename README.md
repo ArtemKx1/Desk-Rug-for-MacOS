@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/desk-rug-demo.gif" alt="Desk Rug for macOS in action" width="500">
+</p>
+
 <div align="center">
 
 # Desk Rug for macOS
@@ -25,20 +29,10 @@ desktop and hides icons — sweep them under it, then put them back.</em>
 
 ## See it in action
 
-<table>
-  <tr>
-    <th width="50%">▶&nbsp;Promo</th>
-    <th width="50%">▶&nbsp;In action <sub>(no sound)</sub></th>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://youtu.be/BuWxfObzcB4"><img src="https://img.youtube.com/vi/BuWxfObzcB4/hqdefault.jpg" alt="Desk Rug — a cloth rug with real physics that hides your Mac icons" width="100%"></a>
-    </td>
-    <td align="center">
-      <a href="https://youtu.be/b0jrya30yU0"><img src="https://img.youtube.com/vi/b0jrya30yU0/hqdefault.jpg" alt="Desk Rug for MacOS in action" width="100%"></a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://youtu.be/BuWxfObzcB4"><img src="https://img.youtube.com/vi/BuWxfObzcB4/hqdefault.jpg" alt="Desk Rug — a cloth rug with real physics that hides your Mac icons" width="600"></a>
+  <br/><sub>▶ Promo</sub>
+</p>
 
 ---
 
