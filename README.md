@@ -12,7 +12,7 @@ desktop and hides icons — sweep them under it, then put them back.</em>
   <img src="https://img.shields.io/badge/macOS-14.0%2B-black?logo=apple" alt="macOS 14.0 or newer" />
 </p>
 
-<sub><a href="#download">⬇️ Download</a> · <a href="#install">🍎 Install</a> · <a href="#license">📄 License</a> · <a href="#brand-usage">™ Brand usage</a></sub>
+<sub><a href="#see-it-in-action">▶️ Videos</a> · <a href="#download">⬇️ Download</a> · <a href="#install">🍎 Install</a> · <a href="#license">📄 License</a> · <a href="#brand-usage">™ Brand usage</a></sub>
 
 </div>
 
@@ -20,6 +20,25 @@ desktop and hides icons — sweep them under it, then put them back.</em>
   💜 <strong>Enjoying Desk Rug?</strong> Support the project — every tip is appreciated:<br/><br/>
   <a href="https://ko-fi.com/artemkuprin" target="_blank"><img src="assets/bmc-button.webp" alt="Buy me a coffee on Ko-fi" /></a>
 </p>
+
+---
+
+## See it in action
+
+<table>
+  <tr>
+    <th width="50%">▶&nbsp;Promo</th>
+    <th width="50%">▶&nbsp;In action <sub>(no sound)</sub></th>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://youtu.be/BuWxfObzcB4"><img src="https://img.youtube.com/vi/BuWxfObzcB4/hqdefault.jpg" alt="Desk Rug — a cloth rug with real physics that hides your Mac icons" width="100%"></a>
+    </td>
+    <td align="center">
+      <a href="https://youtu.be/b0jrya30yU0"><img src="https://img.youtube.com/vi/b0jrya30yU0/hqdefault.jpg" alt="Desk Rug for MacOS in action" width="100%"></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
